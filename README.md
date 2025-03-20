@@ -1,2 +1,2 @@
-# helloworld_-
-my first c program for embedded syatem practice
+first c program.
+practicing github version control
